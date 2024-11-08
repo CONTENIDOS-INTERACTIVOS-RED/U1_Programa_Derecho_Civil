@@ -1,33 +1,33 @@
 <template lang="pug">
 .curso-container.d-flex.flex-column.min-vh-100
-  .container.d-flex.flex-column.justify-content-center.flex-grow-1.px-0.px-md-2
+  .container.d-flex.flex-column.justify-content-center.flex-grow-1.px-0.px-md-2.px-xl-4
     div.home-content.d-flex.flex-column-reverse.flex-lg-column.p-4.p-lg-0
       .bg-white
         .row.g-0
           //- Columna izquierda con imagen
-          .d-none.d-xl-block.d-xl-flex.mb-4.mb-md-0.col-md-4.col-xl-5.imagen-section
+          .d-none.d-xl-block.d-xl-flex.mb-4.mb-md-0.col-md-4.col-xl-6.imagen-section
             img.img-fluid.h-full(
               src="@/assets/portada/banner.png"
               alt="Estudiante virtual"
               style="max-width: 672px;"
             )
-          .d-block.d-lg-none.mx-auto.mb-4.mb-lg-0.col-md-8.col-lg-6.imagen-section
+          .d-block.d-lg-none.mx-auto.mb-4.mb-lg-0.imagen-section
             img.img-fluid.h-full(
               src="@/assets/portada/banner-mobile.png"
               alt="Estudiante virtual"
               style="max-width: 672px;"
             )
           //- Columna derecha con información
-          .col-xl-7.info-section
+          .col-xl-6.info-section
             .content-wrapper.px-lg-4.pt-lg-4.px-xl-5.py-xl-5.text-start
-              p.home-main-title Desarrollo Físico y Motor en Niños y Adolescentes
-              h1.home-title.mb-4.text-uppercase Desarrollo y Ciclo Vital: Niños y Adolescentes
-              p.descripcion.mb-4 Esta unidad, Desarrollo Físico y Motor en Niños y Adolescentes, explora los cambios corporales y habilidades motrices clave desde la niñez hasta la adolescencia. Los estudiantes comprenderán cómo factores como genética, nutrición y entorno influyen en el crecimiento y las transformaciones hormonales de la pubertad, lo cual les permitirá apoyar a los jóvenes en cada etapa de su desarrollo.
-
-              p.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold ¡El éxito está en cada esfuerzo que haces hoy!
+              p.home-main-title FUNDAMENTACIÓN JURÍDICA
+              h1.home-title.mb-4.text-uppercase Derecho Civil, General personas
+              p.descripcion.mb-4 El Derecho Civil, como una de las ramas principales del derecho privado, regula las relaciones entre individuos bajo el principio de igualdad jurídica. Esta disciplina establece un marco normativo que protege y organiza aspectos de la vida cotidiana, desde las relaciones familiares hasta las obligaciones contractuales. En esta unidad, se estudiarán los conceptos básicos del Derecho Civil, sus fuentes y la diferencia entre personas naturales y jurídicas, preparando al estudiante para comprender los principios fundamentales de esta área del derecho.
+              
+              p.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold ¡Prepárate para comprender las bases del Derecho Civil y su impacto en la vida diaria!
 
               .button-container.mt-auto
-                router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'tema1' }")
+                router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
                   div.iniciar-btn-container.w-100.w-md-auto
                     span.iniciar-btn-text INICIAR
                     div.icon

@@ -33,107 +33,23 @@ export default {
       {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
-        numero: '1',
-        titulo: 'Unidad',
+        numero: '1.',
+        titulo: 'Conceptos y fuentes del Derecho Civil',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Título de segundo nivel',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Acordeón',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Slider',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Pestañas',
-            hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Infografia interactiva',
-            hash: 't_1_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Infografia interactiva',
-            hash: 't_1_6',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
-        numero: '2',
-        titulo: 'Unidad',
+        numero: '2.',
+        titulo: 'Fuentes del Derecho Civil',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Texto destacado',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Llamado a la acción - Recursos externos',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Audios',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Listado',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Línea de tiempo',
-            hash: 't_2_5',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
-        numero: '3',
-        titulo: 'Unidad',
+        numero: '3.',
+        titulo: 'Diferenciación entre personas naturales y jurídicas',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Carrusel',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Tablas',
-            hash: 't_3_2',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -178,109 +94,98 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Chavarro Cadena, J. E. (Dir.) & Chavarro Moreno, C. L. (Il.). (2020). Código Civil: (3 ed.). Grupo Editorial Nueva Legislación SAS.',
+    },
+    {
+      referencia:
+        'Chinchilla, C (2019). El rol del Derecho Romano en la formación del civilista: el caso del Derecho contractual. Revista estudiantil de Derecho Privado, 2.',
+    },
+    {
+      referencia: 'Corte Constitucional',
+    },
+    {
+      referencia:
+        'Hinestrosa, F. (2021). El desarrollo doctrinario del derecho civil. Revista De Derecho Privado, 41, 7-17',
+    },
+    {
+      referencia: 'Corte Constitucional (2018) T-241/2018',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.corteconstitucional.gov.co/relatoria/2018/t-241-18.htm',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Ortiz Monsalve, A. & Valencia Zea, A. (2021). Derecho civil: parte general y personas Tomo I. Editorial Temis.',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Medina Pabón Juan Enrique, & Bibliotecaebook. (n.d.). Derecho Civil. Aproximación al Derecho. Derecho de personas 5 edición. Derecho Civil. Aproximación Al Derecho. Derecho de Personas 5 Edición',
     },
   ],
   glosario: [
     {
+      termino: 'Capacidad de obrar',
+      significado:
+        'Es la aptitud de una persona para realizar válidamente actos jurídicos por sí misma. Está relacionada con la posibilidad de ejercer derechos y cumplir obligaciones de forma autónoma. Generalmente se alcanza con la mayoría de edad.',
+    },
+    {
+      termino: 'Capacidad jurídica',
+      significado:
+        'Es la aptitud general para ser titular de derechos y obligaciones desde el nacimiento hasta la muerte. A diferencia de la capacidad de obrar, toda persona natural la posee desde que nace, o en el caso de las personas jurídicas, se posee desde su creación.',
+    },
+    {
+      termino: 'Código Civil',
+      significado:
+        'Es el conjunto de normas jurídicas que regulan las relaciones privadas entre las personas, abarcando aspectos como los derechos y deberes de los ciudadanos, la propiedad, los contratos, las obligaciones, las sucesiones, entre otros.',
+    },
+    {
+      termino: 'Derecho de Bienes y obligaciones',
+      significado:
+        'Es la rama del derecho civil que se ocupa de regular la adquisición, uso, disfrute y disposición de los bienes, así como las relaciones jurídicas que generan obligaciones entre las personas, como contratos y deudas.',
+    },
+    {
+      termino: 'Derecho de Familia',
+      significado:
+        'Es el conjunto de normas que regula las relaciones jurídicas entre los miembros de una familia, como el matrimonio, la filiación, la patria potestad, la tutela, el divorcio, entre otros aspectos relacionados con la vida familiar.',
+    },
+    {
+      termino: 'Derecho de Personas',
+      significado:
+        'Es la parte del derecho civil que se encarga de regular el estado civil, la capacidad, los derechos fundamentales y la personalidad jurídica de los individuos.',
+    },
+    {
+      termino: 'Derecho Privado',
+      significado:
+        'Es la rama del derecho que regula las relaciones entre particulares, es decir, entre personas naturales o jurídicas en su calidad de sujetos de derechos privados. Incluye el derecho civil y el derecho mercantil.',
+    },
+    {
+      termino: 'Derecho de Sucesiones',
+      significado:
+        'Es la rama del derecho civil que regula la transmisión de los bienes, derechos y obligaciones de una persona fallecida a sus herederos o legatarios.',
+    },
+    {
+      termino: 'Estado civil',
+      significado:
+        'Es la situación particular de una persona en cuanto a su posición dentro del derecho de familia. El estado civil incluye categorías como soltero, casado, viudo o divorciado.',
+    },
+    {
+      termino: 'Fuentes del derecho',
+      significado:
+        'Son los orígenes o los mecanismos a través de los cuales se crean, modifican o extinguen las normas jurídicas. Entre las principales fuentes del derecho están la ley, la costumbre, la jurisprudencia y los principios generales del derecho.',
+    },
+    {
+      termino: 'Persona Jurídica',
+      significado:
+        'Ente de creación legal o ficticio capaz de tener derechos y obligaciones, que actúa como una entidad distinta de las personas que la integran.',
+    },
+    {
+      termino: 'Persona Natural',
+      significado:
+        'Es el ser humano considerado individualmente como sujeto de derechos y obligaciones desde su nacimiento hasta su muerte.',
+    },
+    {
       termino: 'MoodBoard',
       significado:
         'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
-    },
-    {
-      termino: '<em>Suftware</em>',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Pirognóstico',
-      significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
-    },
-    {
-      termino: '<em>Áectores</em>',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
-    },
-    {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
     },
   ],
   complementario: [

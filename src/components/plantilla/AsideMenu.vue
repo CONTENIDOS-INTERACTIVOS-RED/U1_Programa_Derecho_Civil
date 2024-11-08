@@ -133,6 +133,7 @@ export default {
     border-right: 1px solid $color-sistema-e
     position: absolute
     background: $white
+    font-size: 19px
 
     @media (max-height: 800px)
       min-height: 800px
