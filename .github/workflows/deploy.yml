@@ -12,7 +12,6 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     environment: production
-
     steps:
       - name: Checkout deploy branch
         uses: actions/checkout@v2
@@ -30,7 +29,7 @@ jobs:
       - name: Build Vue app
         run: npm run build
 
-      - name: Setup Pages branch
+      - name: Deploy to GitHub Pages
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -38,5 +37,5 @@ jobs:
           git add --force dist
           git commit -m "new dist"
           git push -u origin newdist
-          git push origin `git subtree split --prefix dist newdist`:gh-pages --force
+          git subtree push --prefix dist origin gh-pages
           git push origin --delete newdist
