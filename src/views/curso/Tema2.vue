@@ -7,7 +7,7 @@
       .col-12.col-xl-7.col-xxl-8.d-flex.align-items-center
         div.d-flex.align-items-start.bg-ppal-claro.px-3.py-30px
           img.me-3(style="width: 90px" src='@/assets/curso/unidad2/img-40.svg', alt='Texto que describa la imagen')
-          p.pe-xl-3.fs-18px(data-aos="fade-up") Para que haya una aproximación adecuada al Derecho Civil, es necesario entender cómo se fundamentan, se forman y se legitiman sus normas. Para ello, deben conocerse sus fuentes como los orígenes de los que surgen las diferentes normas jurídicas. Medina (2021) es enfático al señalar que no existen normas espontáneas, sino que estas son la respuesta a necesidades de la colectividad y buscan proteger los intereses. Así, las normas tienen bases antropológicas y sociológicas, las cuales buscan crear reglas sociales que pueden denominarse en fuentes reales o materiales del Derecho. 
+          p.pe-xl-3.fs-18px.mb-0(data-aos="fade-up") Para que haya una aproximación adecuada al Derecho Civil, es necesario entender cómo se fundamentan, se forman y se legitiman sus normas. Para ello, deben conocerse sus fuentes como los orígenes de los que surgen las diferentes normas jurídicas. Medina (2021) es enfático al señalar que no existen normas espontáneas, sino que estas son la respuesta a necesidades de la colectividad y buscan proteger los intereses. Así, las normas tienen bases antropológicas y sociológicas, las cuales buscan crear reglas sociales que pueden denominarse en fuentes reales o materiales del Derecho. 
       .d-none.d-xl-block.col-xl-5.col-xxl-4.mx-auto.mt-4.mt-xl-0
         img.h-100(src='@/assets/curso/unidad2/img-41.png', alt='Texto que describa la imagen')  
 
@@ -49,7 +49,7 @@
         div
           img(style="width: 73px" src='@/assets/curso/unidad2/img-46.svg', alt='Texto que describa la imagen')
 
-    p.pb-4.fs-18px Respecto a su naturaleza, las fuentes pueden ser:
+    p.pb-2.fs-18px Respecto a su naturaleza, las fuentes pueden ser:
     .row.position-relative.mb-5.py-4.bg-fondo-1.bg-full-width
       div.px-4.px-md-5.py-md-3
         SlyderA(tipo="b").bg-white
@@ -86,18 +86,18 @@
           p.mb-2.fs-18px.text-bold Tipos de fuentes
           p Teniendo claras las diferencias en los tipos de fuentes, es importante profundizar qué contiene cada una de estas y para ello lo invitamos a consultar el PDF <strong>Tipos de fuentes.</strong>
       .col-lg-3.col-xl-2.d-flex.align-items-center.justify-content-end
-        a.anexo.px-3.py-2.bg-ppal-azul-primary.text-white.box-shadow.cursor-pointer(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank") Descargar
+        a.anexo.px-3.py-2.bg-ppal-azul-primary.text-white.box-shadow.cursor-pointer(:href="obtenerLink('/downloads/Anexo_Tipos_de_fuentes.pdf')" target="_blank") Descargar
           i.fas.fa-arrow-right.ms-2
         
     .row.mb-5
-      p Conocer las fuentes del derecho es fundamental en el Derecho Civil, debido a que estas constituyen la base a partir de la cual se estructura y aplica el ordenamiento jurídico en una sociedad.
+      p.fs-18px Conocer las fuentes del derecho es fundamental en el Derecho Civil, debido a que estas constituyen la base a partir de la cual se estructura y aplica el ordenamiento jurídico en una sociedad.
       .d-none.d-xl-block.col-xl-5.col-xxl-4.mx-auto.mt-4.mt-xl-0
         img.h-100(src='@/assets/curso/unidad2/img-51.png', alt='Texto que describa la imagen')  
       .col-12.col-xl-7.col-xxl-8.d-flex.align-items-center
         div.d-flex.align-items-start.px-3.py-30px(style="background-color: #F3F3F3")
           p.ps-4.pe-xl-3.fs-18px(data-aos="fade-up") Identificar las fuentes es una herramienta elemental en el ejercicio del derecho y de su correcta identificación y comprensión; se garantiza la coherencia y la previsibilidad en la aplicación del derecho, lo que es esencial para la seguridad jurídica y la protección de los derechos de los sujetos.
           img(style="width: 90px" src='@/assets/curso/unidad2/img-52.svg', alt='Texto que describa la imagen')
-    p Además, permite a quienes lo ejercen, tomar decisiones fundamentadas y adecuadas. Esto es relevante en una rama en la que se procura que las relaciones entre los sujetos, sean precisas y reguladas al detalle, al exigir que la norma y su interpretación sea aplicada con precisión. 
+    p.fs-18px Además, permite a quienes lo ejercen, tomar decisiones fundamentadas y adecuadas. Esto es relevante en una rama en la que se procura que las relaciones entre los sujetos, sean precisas y reguladas al detalle, al exigir que la norma y su interpretación sea aplicada con precisión. 
 
 </template>
 

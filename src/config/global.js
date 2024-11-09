@@ -22,12 +22,12 @@ export default {
       {
         nombreRuta: 'inicio',
         icono: 'fas fa-home',
-        titulo: 'Volver al inici',
+        titulo: 'Volver al inicio',
       },
       {
         nombreRuta: 'introduccion',
         icono: 'fas fa-info-circle',
-        titulo: 'Introducció',
+        titulo: 'Introducción',
         desarrolloContenidos: true,
       },
       {
@@ -77,12 +77,12 @@ export default {
       {
         icono: 'fas fa-file-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/material.zip',
+        download: 'downloads/Programa_Derecho_Civil_Unidad_1.pdf',
       },
       {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
-        download: 'downloads/material.zip',
+        download: 'downloads/Anexo_Tipos_de_fuentes.pdf',
       },
       {
         icono: 'far fa-registered',

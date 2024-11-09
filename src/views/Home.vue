@@ -22,9 +22,9 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xl-5.py-xl-5.text-start
               p.home-main-title FUNDAMENTACIÓN JURÍDICA
               h1.home-title.mb-4.text-uppercase Derecho Civil, General personas
-              p.descripcion.mb-4 El Derecho Civil, como una de las ramas principales del derecho privado, regula las relaciones entre individuos bajo el principio de igualdad jurídica. Esta disciplina establece un marco normativo que protege y organiza aspectos de la vida cotidiana, desde las relaciones familiares hasta las obligaciones contractuales. En esta unidad, se estudiarán los conceptos básicos del Derecho Civil, sus fuentes y la diferencia entre personas naturales y jurídicas, preparando al estudiante para comprender los principios fundamentales de esta área del derecho.
+              p.fs-18px.descripcion.mb-4 El Derecho Civil, como una de las ramas principales del derecho privado, regula las relaciones entre individuos bajo el principio de igualdad jurídica. Esta disciplina establece un marco normativo que protege y organiza aspectos de la vida cotidiana, desde las relaciones familiares hasta las obligaciones contractuales. En esta unidad, se estudiarán los conceptos básicos del Derecho Civil, sus fuentes y la diferencia entre personas naturales y jurídicas, preparando al estudiante para comprender los principios fundamentales de esta área del derecho.
               
-              p.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold ¡Prepárate para comprender las bases del Derecho Civil y su impacto en la vida diaria!
+              p.fs-18px.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold ¡Prepárate para comprender las bases del Derecho Civil y su impacto en la vida diaria!
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
@@ -43,7 +43,7 @@
                 alt="Logo Tecnológica del Oriente"
               )
             .col-lg.px-0.d-none.d-lg-block
-              p.footer-text.mb-0 Todo el contenido de este curso es propiedad intelectual de [Nombre de la Universidad] y está protegido por derechos de autor. No puede ser reproducido, distribuido, modificado ni compartido sin su autorización por escrito.
+              p.footer-text.mb-0 Este material puede ser distribuido, copiado y exhibido por terceros si se muestra en los créditos. No se puede obtener ningún beneficio comercial y las obras derivadas tienen que estar bajo los mismos términos de la licencia que el trabajo original.
               
 </template>
 

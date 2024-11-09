@@ -33,7 +33,7 @@
 
     .row.mb-5
       h1.mb-4 Persona natural
-      p.mb-4 El Código Civil colombiano, en el Artículo 74, establece que son personas “… todos los individuos de la especia humana cualquiera que sea su edad, sexo, estirpe o condición”.
+      p.fs-18px.mb-1 El Código Civil colombiano, en el Artículo 74, establece que son personas “… todos los individuos de la especia humana cualquiera que sea su edad, sexo, estirpe o condición”.
 
     .row.mb-5
       .col-12.col-xl-8
@@ -153,7 +153,7 @@
 
     .row.mb-5
       p.fs-18px.mb-4 A grandes rasgos, lo más importante en la consolidación de la persona jurídica, es la voluntad manifestada entre las partes, en el documento privado que será presentado ante las autoridades correspondientes y que iniciará los procesos de registro determinados por la ley, según el tipo societario de la persona jurídica. 
-      p.text-bold Además de estos criterios, dentro de las características y atributos de la persona jurídica, se encuentran:
+      p.fs-18px.text-bold Además de estos criterios, dentro de las características y atributos de la persona jurídica, se encuentran:
 
     .row.mb-5.justify-content-center.img-infografica.px-0.mx-0
       ImagenInfografica.color-acento-contenido.px-0
@@ -184,7 +184,7 @@
     .row.mb-5
       p.fs-18px Teniendo en cuenta los atributos de las personas naturales y jurídicas, estas son las diferencias y similitudes centrales:
 
-    .row.mb-5
+    .row.mb-4
       .col-12.d-flex.justify-content-between.align-items-end.bg-ppal-claro.p-4.p-xl-5
         .row
           .col-12.col-lg-8
@@ -207,11 +207,10 @@
           .d-none.d-lg-block.col-lg-4
             img(src='@/assets/curso/unidad3/img-69.svg', alt='Texto que describa la imagen')
 
-    .row.mb-5
+    .row.mb-4.py-2
       p.fs-18px.mb-0 Es así como diferenciar entre personas naturales y jurídicas es fundamental en el ámbito legal y económico:
 
     .row.mb-5
-      p.fs-18px.mb-5 En ese sentido, para comprender cómo se forman y legitiman las normas dentro del Derecho Civil, es esencial conocer sus fuentes, que son los distintos orígenes de donde emanan las normas jurídicas. <strong>Estas fuentes pueden ser de tipo:</strong>
       .col-10.col-md-6.mb-4.mb-md-0.mx-auto
         div.custom-image-card.rounded-8px
           img.mb-4(src='@/assets/curso/unidad3/img-70.png', alt='Texto que describa la imagen')
@@ -226,7 +225,7 @@
             p.text-center.pb-1.px-4 Son entidades creadas por la ley, como empresas o asociaciones, que poseen personalidad legal, independiente de sus miembros.
 
     .row.mb-5
-      p Esta distinción permite regular y gestionar las relaciones en un contexto más amplio, dado que las personas jurídicas pueden actuar en el comercio, demandar y ser demandadas, así como asumir responsabilidades legales.
+      p.fs-18px Esta distinción permite regular y gestionar las relaciones en un contexto más amplio, dado que las personas jurídicas pueden actuar en el comercio, demandar y ser demandadas, así como asumir responsabilidades legales.
 
     .row.mb-5
       .col-12.col-md-6.col-xxl-4
@@ -237,7 +236,7 @@
         p.bg-ppal-azul.p-4.mb-0.fs-18px(data-aos="fade-up") Finalmente, la clasificación entre personas naturales y jurídicas, es crucial para la resolución de conflictos y la protección de derechos. En casos legales, entender si una parte es una persona natural o jurídica, determina el marco normativo aplicable, así como las sanciones y responsabilidades correspondientes. Esta distinción también facilita la regulación de actividades comerciales y la protección de los consumidores, asegurando que haya mecanismos claros para la resolución de disputas y la defensa de intereses, así como el debido proceso, en el marco de las actuaciones civiles.
 
     .row
-      p La distinción entre personas naturales y jurídicas será relevante en el futuro, al aproximarse al Derecho de Bienes y Obligaciones e incluso al Derecho de Familia, pues las reglas exigidas en estos contextos, marcan diferencias en las responsabilidades de la persona natural y jurídica. <strong>Estas bases adquiridas en esta unidad, también serán relevantes en el desarrollo del curso, al ahondar en la capacidad jurídica y proceder de los tipos de persona. De este modo, tener claras las distinciones será propicio para que el estudiante ejecute una práctica jurídica coherente y eficaz, tanto en el ámbito de las relaciones interpersonales como en el ámbito de su carrera, escenarios corporativos, empresariales , entre otros.</strong>
+      p.fs-18px La distinción entre personas naturales y jurídicas será relevante en el futuro, al aproximarse al Derecho de Bienes y Obligaciones e incluso al Derecho de Familia, pues las reglas exigidas en estos contextos, marcan diferencias en las responsabilidades de la persona natural y jurídica. <strong>Estas bases adquiridas en esta unidad, también serán relevantes en el desarrollo del curso, al ahondar en la capacidad jurídica y proceder de los tipos de persona. De este modo, tener claras las distinciones será propicio para que el estudiante ejecute una práctica jurídica coherente y eficaz, tanto en el ámbito de las relaciones interpersonales como en el ámbito de su carrera, escenarios corporativos, empresariales , entre otros.</strong>
   
 </template>
 

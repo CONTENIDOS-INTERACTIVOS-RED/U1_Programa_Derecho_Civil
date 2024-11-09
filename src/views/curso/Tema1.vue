@@ -12,7 +12,7 @@
         p.fs-18px.mb-0 El Derecho Civil es una de las ramas del derecho privado, que regula las relaciones entre personas, tanto físicas como jurídicas, en diferentes aspectos de la cotidianidad.
 
     .row.mb-5.mb-4
-      p.mb-4 Es así, como primero debemos responder las siguientes preguntas:
+      p.fs-18px.mb-4 Es así, como primero debemos responder las siguientes preguntas:
       .col-12.col-lg-7
         AcordionA(tipo="b")
           .div(titulo="¿En qué se diferencia del derecho público?")
@@ -23,12 +23,12 @@
         img.-mt-18px(src='@/assets/curso/unidad1/img-14.png', alt='Texto que describa la imagen')
     
     .row.mb-4
-      p.mb-4(data-aos="fade-up") Una parte esencial del Derecho Civil es que, siendo reguladora de las relaciones, prima la autonomía y la voluntad de los individuos. En ese sentido, son las personas las que determinan las condiciones de sus relaciones jurídicas, su duración, tipo de vinculación, entre otros. Sin embargo, debe señalarse que, aún con la voluntad de los individuos, esta rama tiene carácter protector al buscar un equilibrio en las relaciones donde pueden presentarse vínculos desequilibrados; en otras palabras, el Derecho Civil establece límites a la voluntad, para proteger a las partes que, posiblemente, son más vulnerables. 
-      p.text-bold Ejemplo de lo anterior son:
+      p.fs-18px.mb-4(data-aos="fade-up") Una parte esencial del Derecho Civil es que, siendo reguladora de las relaciones, prima la autonomía y la voluntad de los individuos. En ese sentido, son las personas las que determinan las condiciones de sus relaciones jurídicas, su duración, tipo de vinculación, entre otros. Sin embargo, debe señalarse que, aún con la voluntad de los individuos, esta rama tiene carácter protector al buscar un equilibrio en las relaciones donde pueden presentarse vínculos desequilibrados; en otras palabras, el Derecho Civil establece límites a la voluntad, para proteger a las partes que, posiblemente, son más vulnerables. 
+      p.fs-18px.text-bold Ejemplo de lo anterior son:
 
     .row.justify-content-center.mb-5
       .d-none.d-xl-block.col-11.col-lg-4.col-xxl-4
-        img.h-100(src='@/assets/curso/unidad1/img-15.png', alt='Texto que describa la imagen')
+        img.h-xxl-100(src='@/assets/curso/unidad1/img-15.png', alt='Texto que describa la imagen')
       .col-10.col-md-8.col-lg-10.col-xl-8.col-xxl-8
         SlyderF(columnas="col-12 col-lg-6")
           .row.py-4.px-4.px-lg-3.px-xxl-2.h-100.justify-content-center
@@ -61,10 +61,10 @@
       .d-flex.align-items-center
         div.d-flex.align-items-center.bg-ppal-azul.p-3.col-12
           img.me-4(style="width: 90px" src='@/assets/curso/introduccion/img-12.svg', alt='Texto que describa la imagen')
-          p.pe-xl-3.mb-0 Estos se dan por iniciativa de quienes los celebran y su conducta no es impuesta por el Estado.
+          p.fs-18px.pe-xl-3.mb-0 Estos se dan por iniciativa de quienes los celebran y su conducta no es impuesta por el Estado.
 
     .row.mb-5.justify-content-center(data-aos="zoom-in-up")
-      p.mb-4  Los principales objetivos del Derecho Civil, incluyen: 
+      p.fs-18px.mb-4  Los principales objetivos del Derecho Civil, incluyen: 
       .col-8.col-sm-7.col-md-6.col-xl-3.mb-4.mb-xl-0
         .custom-image-card.d-flex.justify-content-center.p-2.h-100
           img.me-3(src='@/assets/curso/unidad1/img-21.svg', style="width: 68px")
@@ -111,6 +111,7 @@
 
 
     .row.justify-content-center.mb-5
+      p.fs-18px.mb-5 Además de las mencionadas, Hinestrosa (2021) señala que han habido numerosas reformas dentro de las cuales, a modo de ejemplo, se encuentran: 
       .d-none.d-xl-block.col-11.col-md-4.col-xl-4
         figure.mb-4.mb-md-0
           img(src='@/assets/componentes/test-img-carousel.png', alt='Texto que describa la imagen')
@@ -159,7 +160,8 @@
                 h3.text-center.mb-4 Decreto Extraordinario 1250 de 1970
                 p.text-center Expidió el “Estatuto del registro de instrumentos públicos” que reguló el catastro y creó el folio de matrícula inmobiliaria.
 
-    .row.mb-5.pb-5
+    .row.mb-5.pb-3
+      p.fs-18px.mb-5 Los ejemplos de las reformas muestran que incluso existiendo el Código Civil colombiano desde 1887, este se ha adaptado a las nuevas realidades del país y a los cambios configurados en las relaciones entre los sujetos. 
       .col-12.col-xl-7.col-xxl-8.d-flex.align-items-center
         div.d-flex.align-items-start.bg-ppal-azul.px-3.py-30px
           img.me-3(style="width: 90px" src='@/assets/curso/unidad1/img-24.svg', alt='Texto que describa la imagen')
@@ -167,7 +169,9 @@
       .d-none.d-xl-block.col-xl-5.col-xxl-4.mx-auto.mt-4.mt-xl-0
         img.h-100(src='@/assets/curso/unidad1/img-28.png', alt='Texto que describa la imagen')  
 
-    .row.position-relative.mb-5.py-4.bg-fondo-1.bg-full-width
+    p.mb-4.fs-18px Incluso con estos cambios, vale la pena aclarar que los tópicos centrales se mantienen y que los ajustes que se dan, es sobre la forma en la que se regulan las relaciones. Así, la estructura del Derecho Civil agrupa sus divisiones en la existencia de las personas, sus relaciones familiares, contractuales y de obligaciones.
+    p.mb-4.fs-18px Estas divisiones, conocidas como <strong>subramas</strong>, son: 
+    .row.position-relative.mb-4.py-4.bg-fondo-1.bg-full-width
       div.px-4.px-md-5.py-md-3
         SlyderA(tipo="b").bg-white
           .row.p-4.px-md-5.py-lg-5
@@ -215,7 +219,7 @@
 
     .row.mb-5.pt-5
       h1.mb-4 Relación con otras ramas del Derecho
-      p.mb-5 Además de las subramas del Derecho Civil, este también es relevante para otras áreas del derecho privado, como:
+      p.fs-18px Además de las subramas del Derecho Civil, este también es relevante para otras áreas del derecho privado, como:
     
     .row.position-relative.mb-5.py-4.bg-fondo-1.bg-full-width
       div.px-4.px-md-5.py-md-3
@@ -242,7 +246,7 @@
               figure
                 img(src='@/assets/curso/unidad1/img-37.png', alt='Texto que describa la imagen')
 
-    .row.mb-5.pt-5
+    .row.mb-5.pt-3
       p.fs-18px.mb-5(data-aos="fade-up") La relación del Derecho Civil con otras ramas, refleja la importancia que tiene en distintos escenarios y relaciones de los individuos. Para garantizar una aplicación efectiva de la norma, se deben considerar los principios, como los elementos centrales que determinan la conducta a seguir en el ordenamiento de los procesos civiles, garantizando los derechos de las partes. Estos son aplicados por el Código de Procedimiento Civil y hacen parte de los principios generales del Derecho Procesal Colombiano. Algunos de estos son:
       .col-12.col-lg-7
         AcordionA(tipo="b")
@@ -261,18 +265,20 @@
         img.-mt-18px(src='@/assets/curso/unidad1/img-39.png', alt='Texto que describa la imagen')
       .col-12.col-lg-7
         AcordionA(tipo="b")
-          .div(titulo="Igualdad entre las partes")
-            p.fs-18px La Corte Constitucional (2008) en la sentencia C-690 señala que quienes concurren en el proceso, de manera voluntaria u oficiosa, deben tener las mismas oportunidades procesales. Este principio es derivado del Artículo 13 de la Constitución Política “todas las personas nacen libres e iguales ante la ley”.
-          .div(titulo="Acceso a la justicia")
-            p.fs-18px Todas las personas deben tener garantías para el ejercicio de sus derechos y defensa de sus intereses, así como un debido proceso.
+          .div(titulo="Observancia de las normas procesales")
+            p.fs-18px Las normas procesales son de obligatorio cumplimiento.
+          .div(titulo="Vacíos y deficiencias del código")
+            p.fs-18px Cualquier vacío se llenará con las normas que regulen casos análogos.
           .div(titulo="Legalidad")
             p.fs-18px El sometimiento de los jueces al dominio de la ley.
-          .div(titulo="Debido proceso")
-            p.fs-18px Deberá ser aplicado en todas las actuaciones previstas por el Código General del Proceso.
+          .div(titulo="Gratuidad")
+            p.fs-18px El servicio de justicia es gratuito y será prestado por el Estado.
+          .div(titulo="Instancias")
+            p.fs-18px Los procesos tendrán dos instancias, salvo en los casos que la ley establezca solo una.
 
     .row.mb-5
       h1 Para recapitular:
-      p.fs-18px(data-aos="fade-up") El Derecho Civil es una rama fundamental del sistema jurídico, que regula aspectos esenciales de la vida cotidiana y las relaciones entre particulares, a través de las subramas que lo componen. Su evolución histórica es relevante para entender los ajustes que ha tenido en la normativa, pero también para rastrear sus antecedentes, particularmente en lo referente a su codificación. Independiente a estos ajustes, así como otras ramas del derecho, esta se destaca por la aplicación de fuentes y principios que propenden porque en su aplicación se protejan y equilibren las relaciones entre los sujetos y se les brinde garantías.
+      p.fs-18px(data-aos="fade-down") El Derecho Civil es una rama fundamental del sistema jurídico, que regula aspectos esenciales de la vida cotidiana y las relaciones entre particulares, a través de las subramas que lo componen. Su evolución histórica es relevante para entender los ajustes que ha tenido en la normativa, pero también para rastrear sus antecedentes, particularmente en lo referente a su codificación. Independiente a estos ajustes, así como otras ramas del derecho, esta se destaca por la aplicación de fuentes y principios que propenden porque en su aplicación se protejan y equilibren las relaciones entre los sujetos y se les brinde garantías.
     
 </template>
 
