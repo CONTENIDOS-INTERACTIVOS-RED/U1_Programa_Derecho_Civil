@@ -11,15 +11,6 @@
     top: 51%
     right: 30%
 
-
-.home-main-title
-  font-size: 18px
-  font-weight: 700
-
-.home-title
-  font-size: 38px !important
-  font-weight: 900 !important
-
 @keyframes float1
   0%
     transform: translateY(20px)
@@ -27,8 +18,27 @@
   100%
     transform: translateY(0px)
 
+// BANNER INTERNO
 .banner-interno__fondo
   background-color: #CEE2EF!important
+
+// ACORDEON
+.acordion__header
+  background-color: white !important
+.acordion__contenido
+  background-color: #FBF6DB !important  
+.acordion__header--active
+  background-color: #F5EEC2 !important
+
+// BG FONDO
+.bg-fondo
+  &-1
+    background-image: url("../assets/componentes/background-test.svg") !important
+    background-position: top
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  margin-inline: -3.3rem
 
 .bg-ppal-claro
   background-color: #F7F4ED
@@ -64,24 +74,6 @@
   left: -48px
   top: -48px
   inline-size: auto
-
-// ACORDEON
-.acordion__header
-  background-color: white !important
-.acordion__contenido
-  background-color: #FBF6DB !important  
-.acordion__header--active
-  background-color: #F5EEC2 !important
-
-// BG FONDO
-.bg-fondo
-  &-1
-    background-image: url("../assets/componentes/background-test.svg") !important
-    background-position: top
-.bg-full-width
-  background-size: cover
-  background-repeat: no-repeat
-  margin-inline: -3.3rem
 
 .bg-red-claro
   background-color: #FCDFDB !important
