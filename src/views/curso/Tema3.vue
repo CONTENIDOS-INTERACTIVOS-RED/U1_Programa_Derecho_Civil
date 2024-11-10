@@ -93,12 +93,12 @@
     .row.mb-5
       .col-12.col-xl-7.px-0
        .row.mx-0
-        .col-4.px-0.px-xxl-2.px-0acordion__contenido.acordion__contenido.border-bottom-app-1
+        .col-4.px-0.px-xxl-2.px-0.acordion__contenido.border-bottom-app-1
           p.fs-18px.mb-0.text-bold.p-4 Ejemplo de personas jurídicas del derecho público:
         .col-8.px-0.d-flex.align-items-center.border-bottom-app-1.acordion__header--active
           p.fs-18px.mb-0.p-4.py-xxl-5.mx-xxl-3 La Nación, las entidades territoriales, las entidades del Estado, empresas estatales y otros.
        .row.mx-0
-        .col-4.px-0.px-xxl-2.px-0acordion__contenido.acordion__contenido
+        .col-4.px-0.px-xxl-2.px-0.acordion__contenido
           p.fs-18px.mb-0.text-bold.p-4 Ejemplo de personas jurídicas del derecho privado: 
         .col-8.px-0.d-flex.align-items-center.acordion__header--active
           p.fs-18px.mb-0.p-4.py-xxl-5.mx-xxl-3 Se enfoca en las normas como ordenamiento jurídico general.
