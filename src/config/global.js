@@ -82,7 +82,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
-        download: 'downloads/Anexo_Tipos_de_fuentes.pdf',
+        download: 'downloads/material.zip',
       },
       {
         icono: 'far fa-registered',
