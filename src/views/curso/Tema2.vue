@@ -89,7 +89,7 @@
               p.text-small Teniendo claras las diferencias en los tipos de fuentes, es importante profundizar qué contiene cada una de estas y para ello lo invitamos a consultar el PDF <strong>Tipos de fuentes.</strong>
             .col-sm-auto
               a.download-btn.boton.color-acento-contenido.text-white(:href="obtenerLink('/downloads/Anexo_Tipos_de_fuentes.pdf')" target="_blank")
-                span Descargar
+                span.text-small Descargar
                 i.fas.fa-arrow-right
         
     .row.mb-5
