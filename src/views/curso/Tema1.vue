@@ -2,8 +2,11 @@
 .curso-main-container.pb-3
   BannerInterno.text-uppercase(:titulo="'unidad 1. Conceptos y fuentes del Derecho Civil'" :subTitulo="'1. Conceptos y fuentes del Derecho Civil'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
-    #t_1_1.titulo-segundo.color-secundario
-      h2 1.1  Concepto de Derecho Civil
+  
+    #t_1_1.titulo-segundo
+      div.d-flex
+        span.me-3 1.1  
+        h2 Concepto de Derecho Civil
 
     .row.mb-5
       .d-none.d-xl-block.col-4.px-0
