@@ -16,7 +16,7 @@
 
     .row.mb-5.mb-4
       p.mb-4 Es así, como primero debemos responder las siguientes preguntas:
-      .col-12.col-lg-7
+      .col-12.col-lg-7(data-aos="fade-right")
         AcordionA(tipo="b")
           .div(titulo="¿En qué se diferencia del derecho público?")
             p Se refieren a los hechos y circunstancias que originan la creación del derecho, como los contextos sociales, económicos y políticos, es decir, la realidad misma. Estas fuentes reflejan las necesidades y situaciones específicas de la sociedad que requieren regulación.
@@ -118,7 +118,7 @@
       .d-none.d-xl-block.col-11.col-md-4.col-xl-4
         figure.mb-4.mb-md-0
           img(src='@/assets/componentes/test-img-carousel.png', alt='Texto que describa la imagen')
-      .col-12.col-xl-8
+      .col-12.col-xl-8(data-aos="fade-left")
         SlyderF(columnas="col-12 col-md-6")
           .row.py-4.px-3.h-100
             .col-10.offset-1.offset-md-0.col-md-12.shadow-app.p-3.py-lg-5.px-md-4
@@ -251,7 +251,7 @@
 
     .row.mb-5.pt-3
       p.mb-5(data-aos="fade-up") La relación del Derecho Civil con otras ramas, refleja la importancia que tiene en distintos escenarios y relaciones de los individuos. Para garantizar una aplicación efectiva de la norma, se deben considerar los principios, como los elementos centrales que determinan la conducta a seguir en el ordenamiento de los procesos civiles, garantizando los derechos de las partes. Estos son aplicados por el Código de Procedimiento Civil y hacen parte de los principios generales del Derecho Procesal Colombiano. Algunos de estos son:
-      .col-12.col-lg-7
+      .col-12.col-lg-7(data-aos="fade-right")
         AcordionA(tipo="b")
           .div(titulo="Igualdad entre las partes")
             p La Corte Constitucional (2008) en la sentencia C-690 señala que quienes concurren en el proceso, de manera voluntaria u oficiosa, deben tener las mismas oportunidades procesales. Este principio es derivado del Artículo 13 de la Constitución Política “todas las personas nacen libres e iguales ante la ley”.
@@ -266,7 +266,7 @@
     .row.mb-5
       .col-12.col-lg-5.d-none.d-lg-block
         img.-mt-18px(src='@/assets/curso/unidad1/img-39.png', alt='Texto que describa la imagen')
-      .col-12.col-lg-7
+      .col-12.col-lg-7(data-aos="fade-left")
         AcordionA(tipo="b")
           .div(titulo="Observancia de las normas procesales")
             p Las normas procesales son de obligatorio cumplimiento.

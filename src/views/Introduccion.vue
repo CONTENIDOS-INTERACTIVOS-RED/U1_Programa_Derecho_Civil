@@ -54,7 +54,7 @@
       .d-none.d-xl-block.col-4.px-0
         img.h-100(src='@/assets/curso/introduccion/img-10.png', alt='Texto que describa la imagen')
       .col-12.col-xl-8.d-flex.align-items-center.bg-ppal-azul.p-4
-        p.mb-0 El estudio de esta asignatura ofrecerá las bases esenciales para la carrera y el futuro profesional del estudiante. El conocimiento del Derecho Civil le permitirá reconocer sus derechos contractuales, sus obligaciones familiares y su estatus ante la ley a lo largo de la vida. Será relevante al adquirir un inmueble, firmar contratos laborales, establecer una pareja permanente o incluso, fundar una empresa. Las situaciones en las que el Derecho Civil influirá son numerosas e impactan diversas esferas de la vida.
+        p.mb-0(data-aos="fade-left") El estudio de esta asignatura ofrecerá las bases esenciales para la carrera y el futuro profesional del estudiante. El conocimiento del Derecho Civil le permitirá reconocer sus derechos contractuales, sus obligaciones familiares y su estatus ante la ley a lo largo de la vida. Será relevante al adquirir un inmueble, firmar contratos laborales, establecer una pareja permanente o incluso, fundar una empresa. Las situaciones en las que el Derecho Civil influirá son numerosas e impactan diversas esferas de la vida.
     
     .row.mb-5
       p.mb-4 Para introducir al estudiante en el Derecho Civil, esta primera unidad abordará los siguientes temas:
@@ -73,7 +73,7 @@
       .d-flex.align-items-center
         div.d-flex.align-items-center.bg-ppal-azul.px-3.py-4
           img.me-4(style="width: 90px" src='@/assets/curso/introduccion/img-12.svg', alt='Texto que describa la imagen')
-          p.pe-xl-3.mb-0 El propósito de esta unidad introductoria permite que  el estudiante aproveche las lecturas sugeridas y las actividades propuestas para consolidar los conocimientos adquiridos. El compromiso del estudiante será clave para aplicar estas generalidades del Derecho Civil en situaciones cotidianas y para reconocer los elementos esenciales del Código Civil y los atributos de los sujetos jurídicos.
+          p.pe-xl-3.mb-0(data-aos="fade-up") El propósito de esta unidad introductoria permite que  el estudiante aproveche las lecturas sugeridas y las actividades propuestas para consolidar los conocimientos adquiridos. El compromiso del estudiante será clave para aplicar estas generalidades del Derecho Civil en situaciones cotidianas y para reconocer los elementos esenciales del Código Civil y los atributos de los sujetos jurídicos.
 
 </template>
 

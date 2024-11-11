@@ -55,7 +55,7 @@
         p.text-bold.mt-4 Al respecto, están: 
 
     .row.mb-5
-      .col-12.col-xl-7
+      .col-12.col-xl-7(data-aos="fade-right")
         AcordionA(tipo="b")
           .div(titulo="Nombre")
             p.px-2.mb-0 Es el primer elemento que identifica a los individuos en la sociedad. Usualmente, este se acompaña de apellidos que, generalmente, se heredan de los padres. En algunos contextos, el nombre de las mujeres iba acompañado del apellido del esposo, lo cual denotaba también su vínculo marital; sin embargo, esta práctica ha disminuido y se ve en algunos países, en concreto, al considerar que el apellido no solo refleja el vínculo conyugal, sino que agrupa a la familia. El nombre identifica al sujeto no solo en su individualidad, sino también en la vida jurídica, al momento de establecer vínculos con otros, obligaciones, o al tener derechos sobre bienes.
@@ -71,7 +71,7 @@
     .row.mb-5
       .col-5.d-none.d-xl-block
         img(src='@/assets/curso/unidad3/img-62.png', alt='Texto que describa la imagen')
-      .col-12.col-xl-7
+      .col-12.col-xl-7(data-aos="fade-left")
         AcordionA(tipo="b")
           .div(titulo="Nacionalidad")
             p.px-2.mb-0 Es lo que vincula jurídicamente a una persona con un Estado y, además, le permite gozar de sus derechos; la persona queda vinculada al marco normativo y bloque de constitucionalidad del país del que es nacional, y se le imponen obligaciones de cierto tipo.
@@ -138,15 +138,15 @@
     .row.mb-5.justify-content-center
       p De manera más particular, algunos de los documentos requeridos para la consolidación de la persona jurídica en Colombia, son:
       .row.mb-5.justify-content-center(data-aos="zoom-in-up")
-      .col-10.col-md-8.col-lg-6.col-xl-4.mb-4.mb-xl-0
+      .col-10.col-md-8.col-lg-6.col-xl-4.mb-4.mb-xl-0(data-aos="fade-right")
         .custom-image-card.text-small.d-flex.justify-content-center.flex-column.p-4.p-lg-5.p-xl-4.py-xxl-5.h-100
           img.mx-auto.mb-4.mb-xl-5(src='@/assets/curso/unidad3/img-67.svg', style="width: 80px")
           p.mb-0.flex-grow-1.d-flex.text-center.flex-row Realizar la constitución mediante documento privado en el que especifiquen quiénes la conforman, el objeto y este debe ser presentado ante la Cámara de Comercio correspondiente.
-      .col-10.col-md-8.col-lg-6.col-xl-4.mb-4.mb-xl-0
+      .col-10.col-md-8.col-lg-6.col-xl-4.mb-4.mb-xl-0(data-aos="fade-up")
         .custom-image-card.text-small.d-flex.justify-content-center.flex-column.p-4.p-lg-5.p-xl-4.py-xxl-5.h-100
           img.mx-auto.mb-4.mb-xl-5(src='@/assets/curso/unidad3/img-67.svg', style="width: 80px")
           p.mb-0.flex-grow-1.d-flex.text-center.flex-row Se debe registrar a la persona jurídica ante la Dirección de Impuestos y Aduanas remitiendo copia del acta de constitución.
-      .col-10.col-md-8.col-lg-6.col-xl-4
+      .col-10.col-md-8.col-lg-6.col-xl-4(data-aos="fade-left")
         .custom-image-card.text-small.d-flex.justify-content-center.flex-column.p-4.p-lg-5.p-xl-4.py-xxl-5.h-100
           img.mx-auto.mb-4.mb-xl-5(src='@/assets/curso/unidad3/img-67.svg', style="width: 80px")
           p.mb-0.flex-grow-1.d-flex.text-center.flex-row Diligenciar el formulario de matrícula, en caso de requerir registro mercantil.
@@ -211,13 +211,13 @@
       p.mb-0 Es así como diferenciar entre personas naturales y jurídicas es fundamental en el ámbito legal y económico:
 
     .row.mb-5
-      .col-10.col-md-6.mb-4.mb-md-0.mx-auto
+      .col-10.col-md-6.mb-4.mb-md-0.mx-auto(data-aos="fade-right")
         div.custom-image-card.text-small.rounded-8px
           img.mb-4(src='@/assets/curso/unidad3/img-70.png', alt='Texto que describa la imagen')
           div.mb-4
             p.text-bold.text-center Personas naturales
             p.text-center.pb-1.px-4 Son individuos con derechos y obligaciones propias , capaces de realizar actos jurídicos. Esto incluye desde la capacidad para firmar contratos, hasta la responsabilidad por deudas.
-      .col-10.col-md-6.mb-4.mb-md-0.mx-auto
+      .col-10.col-md-6.mb-4.mb-md-0.mx-auto(data-aos="fade-left")
         div.custom-image-card.text-small.rounded-8px
           img.mb-4(src='@/assets/curso/unidad3/img-71.png', alt='Texto que describa la imagen')
           div.mb-4

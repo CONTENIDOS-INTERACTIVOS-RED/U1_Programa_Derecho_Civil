@@ -68,7 +68,7 @@
               figure
                 img(src='@/assets/curso/unidad2/img-48.png', alt='Texto que describa la imagen')
 
-    .row.mb-3
+    .row.mb-3(data-aos="fade-up")
       p El carácter vinculante de las fuentes directas, está ligado a su reconocimiento formal en el sistema jurídico, en el cual su incumplimiento puede tener sanciones legales. Diferente a ese carácter formal, las fuentes indirectas no tienen obligatoriedad; no obstante, tienen una influencia relevante en la aplicación de la ley y pueden ser determinantes en la interpretación de los procesos jurídicos.
     .row.mb-5
       .col-12.col-xl-7.col-xxl-8.d-flex.align-items-center
@@ -87,7 +87,7 @@
             .col.mb-3.mb-sm-0
               p.text-bold.mb-3 Tipos de fuentes
               p.text-small Teniendo claras las diferencias en los tipos de fuentes, es importante profundizar qué contiene cada una de estas y para ello lo invitamos a consultar el PDF <strong>Tipos de fuentes.</strong>
-            .col-sm-auto
+            .col-sm-auto(data-aos="zoom-in")
               a.download-btn.boton.color-acento-contenido.text-white(:href="obtenerLink('/downloads/Anexo_Tipos_de_fuentes.pdf')" target="_blank")
                 span.text-small Descargar
                 i.fas.fa-arrow-right
