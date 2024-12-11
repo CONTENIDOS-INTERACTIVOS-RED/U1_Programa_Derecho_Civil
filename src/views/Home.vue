@@ -20,8 +20,8 @@
           //- Columna derecha con información
           .col-xl-6.info-section
             .content-wrapper.px-lg-4.pt-lg-4.px-xl-4.py-xxl-5.text-start
-              p.home-main-title.text-uppercase Derecho Civil, General personas
-              h1.home-title.mb-4.text-uppercase Concepto y Fuentes del Derecho Civil
+              p.home-main-title UNIDAD 1
+              h1.home-title.mb-4 Conceptos y fuentes del Derecho Civil
               p.descripcion.mb-4 El Derecho Civil, como una de las ramas principales del derecho privado, regula las relaciones entre individuos bajo el principio de igualdad jurídica. Esta disciplina establece un marco normativo que protege y organiza aspectos de la vida cotidiana, desde las relaciones familiares hasta las obligaciones contractuales. En esta unidad, se estudiarán los conceptos básicos del Derecho Civil, sus fuentes y la diferencia entre personas naturales y jurídicas, preparando al estudiante para comprender los principios fundamentales de esta área del derecho.
               
               p.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold ¡Prepárate para comprender las bases del Derecho Civil y su impacto en la vida diaria!
@@ -60,7 +60,7 @@ export default {
       max-width: 1378px
   .home-title
     font-size: 26px !important
-    font-weight: normal
+    font-weight: BOLD
     @media (min-width: 992px)
       font-size: 38px !important
   .home-main-title

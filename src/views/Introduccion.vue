@@ -61,7 +61,7 @@
       .col-12.col-lg-7
         AcordionA(tipo="b")
           .div(titulo="Profundización en el concepto del Derecho Civil")
-            p Se refieren a los hechos y circunstancias que originan la creación del derecho, como los contextos sociales, económicos y políticos, es decir, la realidad misma. Estas fuentes reflejan las necesidades y situaciones específicas de la sociedad que requieren regulación.
+            p Se analizará su significado, su evolución histórica y su función en la organización de las relaciones jurídicas.
           .div(titulo="Estudio de las fuentes del Derecho Civil")
             p Se explorarán la ley, la costumbre, la jurisprudencia y la doctrina, con un enfoque especial en el Código Civil colombiano.
           .div(titulo="Diferenciación entre personas naturales y jurídicas")

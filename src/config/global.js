@@ -46,6 +46,12 @@ export default {
         titulo: 'Diferenciación entre personas naturales y jurídicas',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'sintesis',
+        titulo: 'Síntesis',
+        unidad: '',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       // {
@@ -70,19 +76,9 @@ export default {
         nombreRuta: 'referencias',
       },
       {
-        icono: 'fas fa-file-download',
-        titulo: 'Descargar PDF',
-        download: 'downloads/Programa_Derecho_Civil_Unidad_1.pdf',
-      },
-      {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
-      },
-      {
-        icono: 'far fa-registered',
-        titulo: 'Síntesis',
-        nombreRuta: 'sintesis',
       },
     ],
   },
@@ -100,7 +96,7 @@ export default {
     },
     {
       referencia:
-        'Hinestrosa, F. (2021). El desarrollo doctrinario del derecho civil. Revista De Derecho Privado, 41, 7-17',
+        'Hinestrosa, F. (2021). El desarrollo doctrinario del Derecho civil. Revista De Derecho Privado, 41, 7-17',
     },
     {
       referencia: 'Corte Constitucional (2018) T-241/2018',
@@ -120,7 +116,7 @@ export default {
     {
       termino: 'Capacidad de obrar',
       significado:
-        'Es la aptitud de una persona para realizar válidamente actos jurídicos por sí misma. Está relacionada con la posibilidad de ejercer derechos y cumplir obligaciones de forma autónoma. Generalmente se alcanza con la mayoría de edad.',
+        'Es la aptitud de una persona para realizar válidamente actos jurídicos por sí misma. Está relacionada con la posibilidad de ejercer derechos y cumplir obligaciones de forma autónoma. Generalmente, se alcanza con la mayoría de edad.',
     },
     {
       termino: 'Capacidad jurídica',
@@ -135,7 +131,7 @@ export default {
     {
       termino: 'Derecho de Bienes y obligaciones',
       significado:
-        'Es la rama del derecho civil que se ocupa de regular la adquisición, uso, disfrute y disposición de los bienes, así como las relaciones jurídicas que generan obligaciones entre las personas, como contratos y deudas.',
+        'Es la rama del Derecho civil que se ocupa de regular la adquisición, uso, disfrute y disposición de los bienes, así como las relaciones jurídicas que generan obligaciones entre las personas, como contratos y deudas.',
     },
     {
       termino: 'Derecho de Familia',
@@ -145,17 +141,17 @@ export default {
     {
       termino: 'Derecho de Personas',
       significado:
-        'Es la parte del derecho civil que se encarga de regular el estado civil, la capacidad, los derechos fundamentales y la personalidad jurídica de los individuos.',
+        'Es la parte del Derecho civil que se encarga de regular el estado civil, la capacidad, los derechos fundamentales y la personalidad jurídica de los individuos.',
     },
     {
       termino: 'Derecho Privado',
       significado:
-        'Es la rama del derecho que regula las relaciones entre particulares, es decir, entre personas naturales o jurídicas en su calidad de sujetos de derechos privados. Incluye el derecho civil y el derecho mercantil.',
+        'Es la rama del derecho que regula las relaciones entre particulares, es decir, entre personas naturales o jurídicas en su calidad de sujetos de derechos privados. Incluye el Derecho civil y el Derecho mercantil.',
     },
     {
       termino: 'Derecho de Sucesiones',
       significado:
-        'Es la rama del derecho civil que regula la transmisión de los bienes, derechos y obligaciones de una persona fallecida a sus herederos o legatarios.',
+        'Es la rama del Derecho civil que regula la transmisión de los bienes, derechos y obligaciones de una persona fallecida, a sus herederos o legatarios.',
     },
     {
       termino: 'Estado civil',
@@ -165,22 +161,17 @@ export default {
     {
       termino: 'Fuentes del derecho',
       significado:
-        'Son los orígenes o los mecanismos a través de los cuales se crean, modifican o extinguen las normas jurídicas. Entre las principales fuentes del derecho están la ley, la costumbre, la jurisprudencia y los principios generales del derecho.',
+        'Son los orígenes o los mecanismos a través de los cuales se crean, modifican o extinguen las normas jurídicas. Entre las principales fuentes del derecho están: la ley, la costumbre, la jurisprudencia y los principios generales del derecho.',
     },
     {
       termino: 'Persona Jurídica',
       significado:
-        'Ente de creación legal o ficticio capaz de tener derechos y obligaciones, que actúa como una entidad distinta de las personas que la integran.',
+        'Ente de creación legal o ficticio, capaz de tener derechos y obligaciones, que actúa como una entidad distinta de las personas que la integran.',
     },
     {
       termino: 'Persona Natural',
       significado:
-        'Es el ser humano considerado individualmente como sujeto de derechos y obligaciones desde su nacimiento hasta su muerte.',
-    },
-    {
-      termino: 'MoodBoard',
-      significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Es el ser humano considerado individualmente como sujeto de derechos y obligaciones, desde su nacimiento hasta su muerte.',
     },
   ],
   complementario: [

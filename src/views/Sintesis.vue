@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.creditos-vista
-  BannerInterno(:titulo="'UNIDAD 1. DERECHO CIVIL, GENERAL PERSONAS'" :subTitulo="'SÍNTESIS'")
+  BannerInterno.text-uppercase(:titulo="'unidad 1. Conceptos y fuentes del Derecho Civil'" :subTitulo="'SÍNTESIS'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     p.mb-4.mb-md-5 La Unidad 1 introduce los fundamentos esenciales del Derecho Civil, una rama del derecho privado que regula las relaciones entre personas bajo un principio de igualdad. Se estudian los conceptos clave, las fuentes del Derecho Civil, y se distingue entre personas naturales y jurídicas, sentando una base sólida para entender su relevancia en la vida cotidiana, en ámbitos como el familiar, contractual y patrimonial. 
     p.mb-4 Este conocimiento permite al estudiante comprender los principios que rigen el Derecho Civil y aplicar estos conceptos en situaciones prácticas, consolidando una formación jurídica que facilitará su desarrollo profesional en el campo legal.

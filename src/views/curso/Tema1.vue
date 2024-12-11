@@ -19,7 +19,7 @@
       .col-12.col-lg-7(data-aos="fade-right")
         AcordionA(tipo="b")
           .div(titulo="¿En qué se diferencia del derecho público?")
-            p Se refieren a los hechos y circunstancias que originan la creación del derecho, como los contextos sociales, económicos y políticos, es decir, la realidad misma. Estas fuentes reflejan las necesidades y situaciones específicas de la sociedad que requieren regulación.
+            p Se diferencia del derecho público, porque se ocupa de las relaciones entre el Estado y los ciudadanos, dado que tiene una naturaleza privada que está enfocada en disponer la normativa y principios que están orientados a la protección de los derechos individuales, así como las relaciones jurídicas que se generen entre los sujetos.
           .div(titulo="¿Cómo está orientado su propósito?")
             p Su propósito está orientado a garantizar la convivencia pacífica y armónica entre las personas, al regular asuntos como la propiedad, los contratos, las obligaciones, la familia y las sucesiones.
       .col-12.col-lg-5.d-none.d-lg-block
@@ -87,7 +87,7 @@
 
     .row.mb-5
       TabsC.color-primario
-        .tabs-content.border.px-4.p-md-5.py-3(titulo="Derecho Civil")
+        .tabs-content.border.px-4.p-md-5.py-3(titulo="Derecho Romano")
           .row
             .d-none.d-lg-block.col-md-12.col-lg-5.col-xl-4
               figure
@@ -139,7 +139,7 @@
               .row.justify-content-center
                 .col-5.col-md-4.mb-4
                   img(src='@/assets/componentes/test-slider.svg' alt='AvatarTop')
-                h3.text-center.mb-4 Ley 8 de 1922
+                h3.text-center.mb-4 Ley 67 de 1930
                 p.text-center Restituyó la capacidad legal de la mujer casada.
           .row.py-4.px-3.h-100
             .col-10.offset-1.offset-md-0.col-md-12.shadow-app.p-3.py-lg-5.px-md-4
@@ -148,6 +148,13 @@
                   img(src='@/assets/componentes/test-slider.svg' alt='AvatarTop')
                 h3.text-center.mb-4 Decreto Extraordinario 1260 de 1970
                 p.text-center Expidió el “Estatuto del registro del estado civil de las personas”.
+          .row.py-4.px-3.h-100
+            .col-10.offset-1.offset-md-0.col-md-12.shadow-app.p-3.py-lg-5.px-md-4
+              .row.justify-content-center
+                .col-5.col-md-4.mb-4
+                  img(src='@/assets/componentes/test-slider.svg' alt='AvatarTop')
+                h3.text-center.mb-4 Ley 54 de 1990
+                p.text-center Definió la “unión marital de hecho”.
           .row.py-4.px-3.h-100
             .col-10.offset-1.offset-md-0.col-md-12.shadow-app.p-3.py-lg-5.px-md-4
               .row.justify-content-center
@@ -168,7 +175,7 @@
       .col-12.col-xl-7.col-xxl-8.d-flex.align-items-center
         div.d-flex.align-items-start.bg-ppal-azul.px-3.py-30px
           img.me-3(style="width: 90px" src='@/assets/curso/unidad1/img-24.svg', alt='Texto que describa la imagen')
-          p.pe-xl-3(data-aos="fade-up") Dentro de los ejemplos más notables en el caso colombiano, se destacan aquellos relacionados con el estado civil de las personas. También hay algunas modificaciones relacionadas a los bienes y obligaciones, imponiendo nuevas formas de regulación o de creaciones de registros. Los cambios y modificaciones al Código Civil son múltiples y permiten que hoy, esta rama del derecho, se regule acorde a las necesidades actuales de la sociedad .
+          p.pe-xl-3(data-aos="fade-up") Dentro de los ejemplos más notables en el caso colombiano, se destacan aquellos relacionados con el estado civil de las personas. También hay algunas modificaciones relacionadas a los bienes y obligaciones, imponiendo nuevas formas de regulación o de creaciones de registros. Los cambios y modificaciones al Código Civil son múltiples y permiten que hoy, esta rama del derecho, se regule acorde a las necesidades actuales de la sociedad.
       .d-none.d-xl-block.col-xl-5.col-xxl-4.mx-auto.mt-4.mt-xl-0
         img.h-100(src='@/assets/curso/unidad1/img-28.png', alt='Texto que describa la imagen')  
 
@@ -272,8 +279,6 @@
             p Las normas procesales son de obligatorio cumplimiento.
           .div(titulo="Vacíos y deficiencias del código")
             p Cualquier vacío se llenará con las normas que regulen casos análogos.
-          .div(titulo="Legalidad")
-            p El sometimiento de los jueces al dominio de la ley.
           .div(titulo="Gratuidad")
             p El servicio de justicia es gratuito y será prestado por el Estado.
           .div(titulo="Instancias")

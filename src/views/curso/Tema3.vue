@@ -101,7 +101,7 @@
         .col-4.px-0.px-xxl-2.px-0.acordion__contenido
           p.mb-0.text-bold.p-4 Ejemplo de personas jurídicas del derecho privado: 
         .col-8.px-0.d-flex.align-items-center.acordion__header--active
-          p.mb-0.p-4.py-xxl-5.mx-xxl-3 Se enfoca en las normas como ordenamiento jurídico general.
+          p.mb-0.p-4.py-xxl-5.mx-xxl-3 Las entidades sin ánimo de lucro- como fundaciones y corporaciones, sociedades -colectivas, anónimas, entre otras-compañías, sindicatos, cooperativas, inmobiliarias, cámaras de comercio, partidos políticos, entidades religiosas, entre otras.
       .d-none.d-xl-block.col-5.px-0
         img.h-100(src='@/assets/curso/unidad3/img-64.png', alt='Texto que describa la imagen')
 
@@ -216,7 +216,7 @@
           img.mb-4(src='@/assets/curso/unidad3/img-70.png', alt='Texto que describa la imagen')
           div.mb-4
             p.text-bold.text-center Personas naturales
-            p.text-center.pb-1.px-4 Son individuos con derechos y obligaciones propias , capaces de realizar actos jurídicos. Esto incluye desde la capacidad para firmar contratos, hasta la responsabilidad por deudas.
+            p.text-center.pb-1.px-4 Son individuos con derechos y obligaciones propias, capaces de realizar actos jurídicos. Esto incluye desde la capacidad para firmar contratos, hasta la responsabilidad por deudas.
       .col-10.col-md-6.mb-4.mb-md-0.mx-auto(data-aos="fade-left")
         div.custom-image-card.text-small.rounded-8px
           img.mb-4(src='@/assets/curso/unidad3/img-71.png', alt='Texto que describa la imagen')
@@ -236,7 +236,8 @@
         p.bg-ppal-azul.p-4.mb-0(data-aos="fade-up") Finalmente, la clasificación entre personas naturales y jurídicas, es crucial para la resolución de conflictos y la protección de derechos. En casos legales, entender si una parte es una persona natural o jurídica, determina el marco normativo aplicable, así como las sanciones y responsabilidades correspondientes. Esta distinción también facilita la regulación de actividades comerciales y la protección de los consumidores, asegurando que haya mecanismos claros para la resolución de disputas y la defensa de intereses, así como el debido proceso, en el marco de las actuaciones civiles.
 
     .row
-      p La distinción entre personas naturales y jurídicas será relevante en el futuro, al aproximarse al Derecho de Bienes y Obligaciones e incluso al Derecho de Familia, pues las reglas exigidas en estos contextos, marcan diferencias en las responsabilidades de la persona natural y jurídica. <strong>Estas bases adquiridas en esta unidad, también serán relevantes en el desarrollo del curso, al ahondar en la capacidad jurídica y proceder de los tipos de persona. De este modo, tener claras las distinciones será propicio para que el estudiante ejecute una práctica jurídica coherente y eficaz, tanto en el ámbito de las relaciones interpersonales como en el ámbito de su carrera, escenarios corporativos, empresariales , entre otros.</strong>
+      p.mb-4 Si bien la noción de la persona natural y de la persona jurídica guardan similitudes, es importante enfatizar en sus diferencias toda vez que representan sujetos con capacidades jurídicas distintas y a sujetos con finalidades diferentes. Esto es relevante al momento de establecer los derechos y las obligaciones de cada una, pues determina las acciones jurídicas de los sujetos e impacta, por ejemplo, la capacidad para adquirir bienes, asumir responsabilidades y participar en actos contractuales.
+      p La distinción entre personas naturales y jurídicas será relevante en el futuro, al aproximarse al Derecho de Bienes y Obligaciones e incluso al Derecho de Familia, pues las reglas exigidas en estos contextos, marcan diferencias en las responsabilidades de la persona natural y jurídica. <strong>Estas bases adquiridas en esta unidad, también serán relevantes en el desarrollo del curso, al ahondar en la capacidad jurídica y proceder de los tipos de persona. De este modo, tener claras las distinciones será propicio para que el estudiante ejecute una práctica jurídica coherente y eficaz, tanto en el ámbito de las relaciones interpersonales como en el ámbito de su carrera, escenarios corporativos, empresariales, entre otros.</strong>
   
 </template>
 
