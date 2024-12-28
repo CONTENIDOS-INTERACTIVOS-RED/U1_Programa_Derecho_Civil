@@ -100,7 +100,27 @@
         div.d-flex.align-items-start.px-3.py-30px(style="background-color: #F3F3F3")
           p.ps-4.pe-xl-3(data-aos="fade-up") Identificar las fuentes es una herramienta elemental en el ejercicio del derecho y de su correcta identificación y comprensión; se garantiza la coherencia y la previsibilidad en la aplicación del derecho, lo que es esencial para la seguridad jurídica y la protección de los derechos de los sujetos.
           img(style="width: 90px" src='@/assets/curso/unidad2/img-52.svg', alt='Texto que describa la imagen')
-    p Además, permite a quienes lo ejercen, tomar decisiones fundamentadas y adecuadas. Esto es relevante en una rama en la que se procura que las relaciones entre los sujetos, sean precisas y reguladas al detalle, al exigir que la norma y su interpretación sea aplicada con precisión. 
+    p.mb-5 Además, permite a quienes lo ejercen, tomar decisiones fundamentadas y adecuadas. Esto es relevante en una rama en la que se procura que las relaciones entre los sujetos, sean precisas y reguladas al detalle, al exigir que la norma y su interpretación sea aplicada con precisión. 
+
+    .bg-full-width.border-top-9-azul
+      .px-4.px-md-5.pt-5.pb-0
+        h2 Material complementario
+        .row
+          .col-12.col-md-6.col-lg-8
+            p.d-flex.my-4
+              img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
+              a.text-small.text-primary(target="_blank", href="https://elibro.net/es/ereader/tecnologicadeloriente/34316") Fayos G.A. (2016). Manual de derecho civil I. Parte general y derecho de la persona. Dykinson.
+            p.d-flex.my-4
+              img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
+              a.text-small.text-primary(target="_blank", href="https://elibro.net/es/ereader/tecnologicadeloriente/58320") Lipari, N. (2016). Las categorías del derecho civil. Dykinson.
+            p.d-flex.my-4
+              img.me-3.mb-auto.mt-1(src='@/assets/componentes/youtube-icon.svg' :style="{'max-width':'16px'}")
+              a.text-small.text-primary(target="_blank", href="https://youtu.be/JDiqb9c8hyY") ULLAudiovisual (2022). Las fuentes del derecho [Vídeo]
+          .col-12.col-md-6.col-lg-3
+            figure
+              img(src='@/assets/componentes/material-complementario.svg', alt='Imagen de material complementario')
+
+
 
 </template>
 

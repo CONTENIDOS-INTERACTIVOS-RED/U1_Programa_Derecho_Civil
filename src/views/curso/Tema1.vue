@@ -288,6 +288,25 @@
       h1 Para recapitular:
       p(data-aos="fade-down") El Derecho Civil es una rama fundamental del sistema jurídico, que regula aspectos esenciales de la vida cotidiana y las relaciones entre particulares, a través de las subramas que lo componen. Su evolución histórica es relevante para entender los ajustes que ha tenido en la normativa, pero también para rastrear sus antecedentes, particularmente en lo referente a su codificación. Independiente a estos ajustes, así como otras ramas del derecho, esta se destaca por la aplicación de fuentes y principios que propenden porque en su aplicación se protejan y equilibren las relaciones entre los sujetos y se les brinde garantías.
     
+    .bg-full-width.border-top-9-azul
+      .px-4.px-md-5.pt-5.pb-0
+        h2 Material complementario
+        .row
+          .col-12.col-md-6.col-lg-8
+            p.d-flex.my-4
+              img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
+              a.text-small.text-primary(target="_blank", href="https://elibro.net/es/ereader/tecnologicadeloriente/68942") Chavarro Cadena, J. E. & Chavarro Moreno, C. L. (2020). Código Civil (2 ed.). Grupo Editorial Nueva Legislación SAS.
+            p.d-flex.my-4
+              img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
+              a.text-small.text-primary(target="_blank", href="https://elibro.net/es/ereader/tecnologicadeloriente/69643") Medina J.E. (2014). Derecho civil: derecho de personas (4a. ed.). Editorial universidad del rosario.
+            p.d-flex.my-4
+              img.me-3.mb-auto.mt-1(src='@/assets/componentes/youtube-icon.svg' :style="{'max-width':'16px'}")
+              a.text-small.text-primary(target="_blank", href="https://youtu.be/wP9BMo1OSTA") Bedoya, C. (2022). Derecho civil/ personas [Vídeo]
+          .col-12.col-md-6.col-lg-3
+            figure
+              img(src='@/assets/componentes/material-complementario.svg', alt='Imagen de material complementario')
+
+
 </template>
 
 <script>

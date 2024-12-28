@@ -235,10 +235,29 @@
       .col-12.col-md-6.col-xxl-4
         p.bg-ppal-azul.p-4.mb-0(data-aos="fade-up") Finalmente, la clasificación entre personas naturales y jurídicas, es crucial para la resolución de conflictos y la protección de derechos. En casos legales, entender si una parte es una persona natural o jurídica, determina el marco normativo aplicable, así como las sanciones y responsabilidades correspondientes. Esta distinción también facilita la regulación de actividades comerciales y la protección de los consumidores, asegurando que haya mecanismos claros para la resolución de disputas y la defensa de intereses, así como el debido proceso, en el marco de las actuaciones civiles.
 
-    .row
+    .row.mb-5
       p.mb-4 Si bien la noción de la persona natural y de la persona jurídica guardan similitudes, es importante enfatizar en sus diferencias toda vez que representan sujetos con capacidades jurídicas distintas y a sujetos con finalidades diferentes. Esto es relevante al momento de establecer los derechos y las obligaciones de cada una, pues determina las acciones jurídicas de los sujetos e impacta, por ejemplo, la capacidad para adquirir bienes, asumir responsabilidades y participar en actos contractuales.
       p La distinción entre personas naturales y jurídicas será relevante en el futuro, al aproximarse al Derecho de Bienes y Obligaciones e incluso al Derecho de Familia, pues las reglas exigidas en estos contextos, marcan diferencias en las responsabilidades de la persona natural y jurídica. <strong>Estas bases adquiridas en esta unidad, también serán relevantes en el desarrollo del curso, al ahondar en la capacidad jurídica y proceder de los tipos de persona. De este modo, tener claras las distinciones será propicio para que el estudiante ejecute una práctica jurídica coherente y eficaz, tanto en el ámbito de las relaciones interpersonales como en el ámbito de su carrera, escenarios corporativos, empresariales, entre otros.</strong>
   
+    .bg-full-width.border-top-9-azul
+      .px-4.px-md-5.pt-5.pb-0
+        h2 Material complementario
+        .row
+          .col-12.col-md-6.col-lg-8
+            p.d-flex.my-4
+              img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
+              a.text-small.text-primary(target="_blank", href="https://elibro.net/es/ereader/tecnologicadeloriente/46320") Rogel C. (2008). Estudios de derecho civil. Editorial Reus.
+            p.d-flex.my-4
+              img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
+              a.text-small.text-primary(target="_blank", href="https://elibro.net/es/ereader/tecnologicadeloriente/51712") Gómez, J. (2011). Derecho procesal civil. Universitat Jaume I.
+            p.d-flex.my-4
+              img.me-3.mb-auto.mt-1(src='@/assets/componentes/youtube-icon.svg' :style="{'max-width':'16px'}")
+              a.text-small.text-primary(target="_blank", href="https://youtu.be/nK3-UDTe-oI") De Shunsho a Crack (2023). ¿Cuál elegir? Persona Natural o Jurídica Ventajas y diferencias [Vídeo]
+          .col-12.col-md-6.col-lg-3
+            figure
+              img(src='@/assets/componentes/material-complementario.svg', alt='Imagen de material complementario')
+
+
 </template>
 
 <script>
