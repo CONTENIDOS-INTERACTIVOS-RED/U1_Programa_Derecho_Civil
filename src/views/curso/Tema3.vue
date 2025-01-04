@@ -277,7 +277,7 @@ export default {
       tema: 'Fuentes y Personas del Derecho Civil',
       titulo: 'Ponte a prueba',
       introduccion:
-        '<b>Objetivo:</b> Identificar y comprender las fuentes del Derecho Civil colombiano y los conceptos fundamentales sobre personas naturales y jurídicas.',
+        'Demuestra lo que aprendiste en esta unidad y pon a prueba tus conocimientos.',
       barajarPreguntas: true,
       preguntas: [
         {
